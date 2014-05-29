@@ -1,4 +1,4 @@
 login-page
 ==========
 
-Login page design with foundation 5
+Login page designed with foundation 5 (http://foundation.zurb.com)
