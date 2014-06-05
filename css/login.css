@@ -40,5 +40,21 @@
 }
 .login-form input[type="text"]:focus{border-bottom: 4px solid #dd4b39;}
 .login-form input[type="password"]:focus{border-bottom: 4px solid #00933b;}
-.login-form button[type="submit"]{font-family: 'Roboto', sans-serif;font-size: 1.2em;padding: 0.5em;}
+.login-form button[type="submit"]{
+    font-family: 'Roboto', sans-serif;
+    font-size: 1.2em;
+    padding: 0.5em; 
+    margin: 0 0 0.5em;
+}
+
+.login-form span.remember{
+    font-size: 15px;
+    color: #333;
+    position: relative;
+    top: -2px;
+}
+.login-form .create-account,
+.login-form .troubleshoot{
+    margin-bottom: 15px;
+}
 /*-----------------------------------*/
